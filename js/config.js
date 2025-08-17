@@ -94,6 +94,14 @@ const API_SITES = {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花资源'
     },
+    ukuapi: {
+        "name": "U酷资源",
+        "api": "https://api.ukuapi.com/api.php/provide/vod"
+    },
+    fenwe078:{
+        "name": "四圈资源",
+        "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+    },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
         name: '百度云资源'
